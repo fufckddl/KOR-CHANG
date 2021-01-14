@@ -1,5 +1,3 @@
-👨 KOR-CHANG/README.md
-
 <br/>
 
 ```js
