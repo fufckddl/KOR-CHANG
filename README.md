@@ -1,6 +1,6 @@
-👨 kor-chang/README.md
+👨 KOR-CHANG/README.md
 
-
+<br/>
 ```js
 const me = {
   name: 'LeeChangRyeol',
