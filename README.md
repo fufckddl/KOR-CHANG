@@ -1,4 +1,4 @@
-```
+```js
 const me = {
   name: 'LeeChangRyeol',
   age: 21,
