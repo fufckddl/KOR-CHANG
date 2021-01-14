@@ -24,6 +24,15 @@ const me = {
  
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KOR-CHANG)](https://github.com/anuraghazra/github-readme-stats)-->
  
+ ### Hoseo University Student
+ 
+* I'm studying in Hoseo University 
+
+### Interesting
+
+* Node.js
+* API Handling
+* Mechine Learning
 
 
 <div align=center>
