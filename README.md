@@ -8,7 +8,7 @@ const me = {
   language: [
     "JavaScript",
     "Python",
-    "C"
+    "C++"
   ]
 };
 ```
