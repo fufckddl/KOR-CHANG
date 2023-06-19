@@ -3,9 +3,10 @@
 ```js
 const me = {
   name: 'LeeChangRyeol',
-  age: 21,
+  age: 23,
 
   language: [
+    "Java",
     "JavaScript",
     "Python",
     "C++"
@@ -28,9 +29,7 @@ const me = {
 
 ### Interesting
 
-* Node.js
-* API Handling
-* Mechine Learning
+* .
 
 
 <div align=center>
